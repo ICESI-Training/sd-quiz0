@@ -1,11 +1,11 @@
 # Quiz 0
 
-**Name**: {name}  
-**Student ID**: {student_id}
+**Name**: Ana Valderrama
+**Student ID**: A00065868
 
 ## Answers
 
 1.  
 
-1.  
+2.  
 
