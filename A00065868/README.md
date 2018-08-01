@@ -1,6 +1,6 @@
 # Quiz 0
 
-**Name**: Ana Valderrama
+**Name**: Ana Valderrama  
 **Student ID**: A00065868
 
 ## Answers
