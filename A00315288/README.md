@@ -1,7 +1,7 @@
 # Quiz 0
 
-**Name**: {name}  
-**Student ID**: {student_id}
+**Name**: Julian Gonzalez
+**Student ID**: A00315288
 
 ## Answers
 
