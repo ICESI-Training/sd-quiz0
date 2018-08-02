@@ -5,6 +5,6 @@
 
 ## Answers
 
-1.  
+1.  El uso de microservicios depende de la situación a desarrollar. Puede ser más viable esto o un sistema monolítico
 
 2.  
