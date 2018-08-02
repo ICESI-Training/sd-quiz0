@@ -5,6 +5,6 @@
 
 ## Answers
 
-1.  
+1. Cross functional autonomous teams
 
 1.  
