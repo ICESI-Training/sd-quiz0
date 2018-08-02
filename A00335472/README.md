@@ -1,7 +1,7 @@
 # Quiz 0
 
-**Name**: {name}  
-**Student ID**: {student_id}
+**Name**: Alejandro Bueno  
+**Student ID**: A00335472  
 
 ## Answers
 
