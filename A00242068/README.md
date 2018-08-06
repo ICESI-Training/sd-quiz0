@@ -14,6 +14,8 @@ Una forma de escalar software es implementar la arquitectura en base a microserv
 Los microservicios son un sistema de desarrollo software, que imponen su propia arquitectura lo que permite contar con infraestructuras más flexibles y adaptables
  
 **Ventajas y desventajas frente a la arquitectura de un monolitico.**
+
+
 **ventajas:**
 Desacoplamiento. 
 Escalabilidad. 
