@@ -1,5 +1,5 @@
 # Universidad Icesi
-# Distributed Computing  
+# Distributed Systems  
 
 # Quiz 0
 ## Microservices Fundamentals
