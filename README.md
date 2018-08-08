@@ -1,5 +1,7 @@
 # Universidad Icesi
 # Distributed Systems  
 
-# Quiz 1
-## Microservices Tools
+# Quiz 0
+## Microservices Fundamentals
+
+* Review GitHub commands
