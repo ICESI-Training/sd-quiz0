@@ -5,7 +5,7 @@
 
 ## Answers
 
-1.  Que estrategias me permiten escalar a los equipos de desarrollo que trabajan en un mismo producto
+1.  ¿Que estrategias me permiten escalar a los equipos de desarrollo que trabajan en un mismo producto
   
   La primordial estragetifa que permite escalar a los equipo de desarrillo en un producto es una serie de practicas como:
  
@@ -17,7 +17,7 @@
      
      
 
-2.  Ventajas y desventajas de esa estrategia para el escalamiento
+Ventajas y desventajas de esa estrategia para el escalamiento:
 
 ## Desventajas
 * Descentralizado.
@@ -38,3 +38,13 @@
 * Minimiza dependencia en software.
 * Es mas facil construir sistemas disponibles y confiables.
 * Es una tecnica que va de la mano con el trabajo en equipo de mayor escala en un solo producto.
+
+
+
+2. Razones para usar herramientas de infraestructura as code en lugar de scripsts.
+
+- Escribir software es duro.
+- Tendencia a tener errores.
+
+
+
