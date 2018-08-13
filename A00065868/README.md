@@ -11,5 +11,14 @@
   Sumadas a las desventajas de implementación de este tipo de estrategia, se encuentran las ocasionadas por un mal análisis, si no se tiene claro el contexto de la empresa, los límites y el dominio de la aplicación, los servicios en los cuáles se va a dividir y la consistencia entre ellos, se podría ocasionar un total fracaso del proyecto. 
   Entre las ventajas se encuentra que si es bien utilizado puede generarse valor para la empresa, se automatizan procesos que hacen más fácil la escalabilidad y la integración de una aplicación. Esta automatización que se hace necesaria conlleva efectividad en el desarrollo y calidad en el producto a entregar. Las modificaciones, por ejemplo, son más fáciles de llevar a cabo, se cambia el módulo deseado sintener que realizar un versionamiento de todo el sistema y la interrupción de los demás servicios.
   Para concluir a pesar de que suene muy complicado el empleo de esta estrategia, todo radica en el proceso que se lleva a cabo para implementarla, y si se hace bien puede traer muchos beneficios consigo. 
-2.  
+2. En principio es importante destacar las ventajas del empleo de IaC como lo son: la automatización de procesos, lo que deriva en escalabilidad, ambientes rápidamente estables, prevención y eliminación de errores que puedan derribar un servidor, también esta la automatización de las pruebas y que las configuraciones sean fácilmente evaluables. Existen herramientas que hacen que emplear IaC sea más fácil y eficiente, no sólo en cuanto a tiempo de trabajo sino en el manejo del código, funciones más profundas, por ejemplo, permiten crear repositorios, manejar secretos, entre otras cosas. Al utilizar self-provisioning a pesar de que se automatizan procesos, la configuración es editable por cualquier persona, lo que hace que se generen ambientes únicos, que pueden ser dificilmente redesplegables, la generación de estos ambientes únicos puede causar incosistencias y problemas en los despliegues. Además, usar IaC y sus herramientas no sirve unicamente para el aprovisionamiento (provisioning) sino también para la construcción y administración del código.  
+
+## References  
+https://www.youtube.com/watch?v=XjMTDb20O7M  
+https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile  
+https://docs.microsoft.com/en-us/azure/devops/what-is-infrastructure-as-code  
+https://puppet.com/solutions/infrastructure-as-code  
+https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api  
+
+
 
