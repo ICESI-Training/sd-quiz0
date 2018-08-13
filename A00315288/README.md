@@ -1,6 +1,6 @@
 # Quiz 0
 
-**Name**: Julian Gonzalez
+**Name**: Julian Gonzalez  
 **Student ID**: A00315288
 
 ## Answers
