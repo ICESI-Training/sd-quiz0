@@ -21,6 +21,6 @@ En la actualidad, si la empresa esta buscando capitalizar los beneficios de la n
 
 ## References
 
-l. https://stelligent.com/2017/06/29/devops-benefits-of-infrastructure-as-code/
-l. https://www.youtube.com/watch?v=XjMTDb20O7M
-l. https://www.cio.com/article/3017722/infrastructure/what-is-infrastructure-as-code-and-why-should-you-embrace-it.html  
+1. https://stelligent.com/2017/06/29/devops-benefits-of-infrastructure-as-code/
+1. https://www.youtube.com/watch?v=XjMTDb20O7M
+1. https://www.cio.com/article/3017722/infrastructure/what-is-infrastructure-as-code-and-why-should-you-embrace-it.html  
