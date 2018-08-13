@@ -5,7 +5,7 @@
 
 ## Answers
 
-1. Los Cross functional autonomous teams permiten escalar los equipos de desarrollo de un proyecto. 
+1. Los Cross functional autonomous teams permiten escalar los equipos de desarrollo de un proyecto.  
 	Ventajas:
 	- Escalamiento
 	- Disponibilidad
