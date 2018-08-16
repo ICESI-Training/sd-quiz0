@@ -14,13 +14,14 @@ Las ventajas de usar esta herramienta se basan en que se va a tener un mejor con
 
 Las desventajas se constituyen en la complejidad que implica implementar microservicios, todas las tecnologías y herramientas nuevas que se tienen que integrar, las dependencias entre los microservicios (realizar cambios puede resultar en problemas de incompatibilidad), debuggear se torna más complejo debido a que las pruebas unitarias pierden efectividad.
 
-2. # Siempre puedes curiosear con lo existente en la configuración...
+2. 
+Siempre puedes curiosear con lo existente en la configuración...
 git config --global --list
  
-# Primero, elimina el usuario actual (nombre y correo).
+Primero, elimina el usuario actual (nombre y correo).
 git config --global --unset-all user.name
 git config --global --unset-all user.email
  
-# Luego, vuelve a configurar las propiedades con tus datos.
+Luego, vuelve a configurar las propiedades con tus datos.
 git config --global --add user.name "El nuevo usuario"
 git config --global --add user.email "nuevo@correo.com"
