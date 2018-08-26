@@ -1,6 +1,6 @@
 # Quiz 0
 
-**Name**: Jorge Eliecer Castaño Valencia
+**Name**: Jorge Eliecer Castaño Valencia  
 **Student ID**: A00315284
 
 ## Answers
@@ -19,7 +19,7 @@
 
 Ventajas y desventajas de esa estrategia para el escalamiento:
 
-## Desventajas
+### Desventajas
 * Descentralizado.
 * Mucha complejidad tegnologica de sus herramientas (muchas dimensiones).
 * A veces no se tiene en cuenta si es realmente valioso su uso, si se compensa y trampas.
@@ -30,7 +30,7 @@ Ventajas y desventajas de esa estrategia para el escalamiento:
 * Los microservicios tienen un dominio y contexto liminato.
 * Se debe tener presente la gestion de cambios de microservicios
 
-## Ventajas
+### Ventajas
 * Implementar y administrar individualmente lo que disminuye la complejidad en cuanto al sistema modulado. (pruebas, soporte, debug)
 * Unidades independientes mas pequeñas.
 * Desacoplados e independientes servicios.
