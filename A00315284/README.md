@@ -43,8 +43,7 @@ Ventajas y desventajas de esa estrategia para el escalamiento:
 
 2. Razones para usar herramientas de infraestructura as code en lugar de scripsts.
 
-- Escribir software es duro.
-- Tendencia a tener errores.
-
+- Escribir software como scripts es duro.
+- Las tendencias se dirigen hacia IaC porque poseen caracteristicas de versatibilidad que son actualmente demandantes: automatización, flexibilidad, agilidad, escalabilidad y reconfigurabilidad.
 
 
